@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'exercicios.aula1.Questao1'
+    mainClass = 'exercicios.aula2.Exercicio1'
 }
 
 run {
